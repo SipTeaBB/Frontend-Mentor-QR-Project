@@ -1,2 +1,3 @@
 # Frontend-Mentor-QR-Project
- Simple html & css project
+ My first html & css project from [Frontend Mentor](https://www.frontendmentor.io).
+ I had *so* much fun!
