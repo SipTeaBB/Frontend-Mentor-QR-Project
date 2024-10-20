@@ -1,6 +1,6 @@
 # Frontend-Mentor-QR-Project
  
-#####INDEX
+##### INDEX
  - [Overview](#overview)
    - [The challenge](#the-challenge)
    - [Screenshot](#screenshot)
@@ -13,20 +13,20 @@
  - [Author](#author)
  - [Acknowledgments](#acknowledgments)
  
- ###Overview
+ ### Overview
  Welcome to my first html & css project from [Frontend Mentor](https://www.frontendmentor.io).
  I had *so* much fun!
 
- ###The challenge
+ ### The challenge
  The challenge was to re-create a simple html and css static page that held a QR code.
 
-###Screenshot
+### Screenshot
 Here is the referance screenshot:<br>
 ![Frontend Mentors QR page referance](/preview.jpg "QR-code site preview image")
 
-###Links
+### Links
 
 
-###My process
+### My process
 
 
