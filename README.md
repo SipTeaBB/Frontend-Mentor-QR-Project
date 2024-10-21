@@ -39,7 +39,7 @@ Built with basic html and css in VSCode.
 ### What I learned
 
 I now have a better understanding of how parent elements and child elements work. 
-I'll mess up a lot, but eventually I'll get it right.
+I'll mess up a lot, but eventually I'll get it right.<br>
 Make -> fail -> make -> fail -> make!
 
 ### Continued developemnt
@@ -48,7 +48,7 @@ None on this project.
 
 ### Useful resources
 
--[mdn web docs](https://developer.mozilla.org/en-US/docs/Web)
+-[mdn web docs](https://developer.mozilla.org/en-US/docs/Web)<br>
 -[google-webfonts-helper](https://gwfh.mranftl.com/fonts)
 
 ### Author
